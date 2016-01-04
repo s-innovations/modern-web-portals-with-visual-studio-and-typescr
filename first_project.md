@@ -27,5 +27,5 @@ In the above command the type definitions for RequireJS is installed which mean 
 }
 
 ```
-together with a folder `typings` where modules are installed as subfolders and a `tsd.d.ts` file that keep references to all the added files. In visual studio the tsd.d.ts file is not stricly needed due to the virtual TypeScript Project that finds all .ts and .d.ts files and helps with reference tracking. 
+together with a folder `typings` where modules are installed as sub-folders and a `tsd.d.ts` file that keep references to all the added files. In visual studio the tsd.d.ts file is not strictly needed due to the virtual TypeScript Project that finds all .ts and .d.ts files and helps with reference tracking. 
 We will later explore how to properly use `tsd.d.ts` correctly as its how other typescript editors or if you want to compile from commandline using tsc (notice the difference, tsd vs tsc).
