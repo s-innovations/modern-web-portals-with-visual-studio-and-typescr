@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [First Chapter](chapter1.md)
-* First Project
+* [First Project](first_project.md)
 
