@@ -1,5 +1,16 @@
 # First Project
 
+## Bower, NPM and Grunt
+
+
+
+## Si-Portal
+Installing the [S-Innovtions Portal Framework](https://github.com/s-innovations/S-Innovations.PortalFramework) using bower will pull in knockout,requires and other utility libraries needed to create web portals using the techniques and design principals of this book.
+
+`bower install s-innovations/s-innovations.portalframework --save`
+
+The typescript definitions are not pulled in as a dependency as of now, but using TSD described below will cover this.
+
 ## TSD
 
 From [DefinitelyTyped/tsd](https://github.com/DefinitelyTyped/tsd) a tool is provided that can be installed using the following command using the node package manager NPM.
